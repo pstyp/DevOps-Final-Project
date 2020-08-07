@@ -1,5 +1,6 @@
 # DevOps_Spring_Project
 
+This was a group project. The original GitHub repository can be found here: https://github.com/stevenj2019/DevOps_Spring_Project 
 ## Repositories 
 
 + [Front-end](https://github.com/spring-petclinic/spring-petclinic-angular)
